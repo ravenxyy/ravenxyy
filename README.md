@@ -1,6 +1,6 @@
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/701831314533384263)](https://discord.com/users/701831314533384263)
+[![Discord Presence](https://lanyard.cnrad.dev/api/461986315911692288)](https://discord.com/users/461986315911692288)
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=daviidkoo4074&hide_title=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000001"/>
